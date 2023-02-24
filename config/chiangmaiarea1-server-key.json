@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chiangmaiarea1-server",
+  "private_key_id": "c661f27b8f05046c90a13f695857b29a1b24f68e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD3fg45nXzY9VlX\n5r0RF5hyqJJZNbz+AetaX+bajHewR+F8ncSIke9abkMkGk3rFJyEJ///TawRxtwl\nlIOeHqq0rvh/c5KMSL3ajy5xsABVGbMiG8lTTSU5AGT+TQpbrngnt7L49Yk7zH6i\n5Kja2/L/20DcD820TuuQA8jYmq4ZeS5C3Hc6nEEqcIBBCgPihjBI0SWvxsGse4YY\nO71ZFLeGM+eeAJVcLSbES7oqCgFAoY5VGfnzasNl836sjkI+wzzRkKBg2vkKZcYD\nZFHRqNlI9qVypcJyoJCsSAqbM0Vhbw7sRTsGjh8UItSWu/t3PeJpHbcZrY3mHI6E\n2eq2NJ6rAgMBAAECggEAa6FpZEsGIYBJs32IGafOR4bh5mQFZd3F0Y7FYaQW5RXN\njRk7gD0e/4/WKRw7aJGVI7AVl5zayPxXfwxgVOJ3UI6LSToksFduIV+FTjHBY0EC\n80FsQ4rYNjrisOkmKQrt/C/aaIS3gscDB6ozeMKQog5i3ZEN32026nGK5hAWyMJc\nmijdgA5IwrStH7f0NyXLZEsKuAoSpqGFmv5A/0gprdsVGu8ZczRx6CYDB33X8uBn\nTPjHg0mY7Bz5b7REP2XRcPfGNilnfmoHHx+3IoGtlbaqEkq2BCjTE8nu1m7sSzAb\n+tXKmcoYFdTwH1Ep7MwcPriHAwrLCUE4YiJSTn/umQKBgQD7uSpTLpdsDSu577Fe\nFdLhcXWPYRjlxj0kvGyRz/1fBg4GHt3JwC+hekybpu2jj8py2ZsSlbhDxvIU2VCi\nVMzADZzYb41glvjd9+FS7LskL0HT5o9qQrxeh74ZEvjb5wGRnUd3KRuIOVfdTBYP\npsbJsqdmGlLdo5E2XnByim2IRQKBgQD7sn0Rgi5N/v6ykkuiFIDpzzBo7cgbil9u\ntd/b5SE3qWVnJEnovFYAssYiiBjXTXDTfLdxJsU+C4vwpBicFOEA51S7jon3svp1\nzLyq7V1M/CKHQZ5JUqK/9xkc+bg8fqL+na+UpAS/b8eGt1RX2hNnQ1leji5XzaqY\nsUmbFhDSLwKBgQCa38gcubPMdSYMFl9oZcEDmA0elDz/UkLYUV3zMKbRSiZiuab3\ntFkZ3uc3dTMMyTFkDGKOwrNGcCcNkM89sTLwju+LcsbnQLwJxbNKlABoOPMlbtua\nI0lGV/or7zJSCgU7FCueMxqPa8iVjXSdWJ1CB7ta5KNLXpG/g8dnkafmiQKBgCYb\nFbhK3zvLuT/LykuVkxbS2V9pcHxK7LvUKTofbHIC4WlGIzJrIRIl/r1HoYsnHEfI\nf/VPi1kjYmJiVZ97wbzjSP7ES7sGi8i94Gp4WUHIgmm7030CV8V8YX7zh6MRARhP\nQz/bvSRGhgytQMW0LG/b0HHyUK3WY1eOr7gdFRrdAoGBALGhM0KKGWCyfL+I5m7R\naKrRW8Uv8eJpeTsLvJCMPWf3NIwPknBoi3RiT0ttNvfCzOc/Hu+FB7il0IxZQoQP\ncRnQHi+DJz348wjXhqoTR77e7dcczTMscSjN7BrMQkRcTBA0RPtZ3dLdG6Mu4QQ6\n6QsQEYII3uJk9S+9KWJ8V99G\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-l60cs@chiangmaiarea1-server.iam.gserviceaccount.com",
+  "client_id": "111145865688867867288",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-l60cs%40chiangmaiarea1-server.iam.gserviceaccount.com"
+}
