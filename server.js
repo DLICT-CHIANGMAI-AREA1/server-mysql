@@ -29,7 +29,7 @@ app.use("/api-docs", swaggerUI.serve, swaggerUI.setup(specs));
 require("dotenv").config();
 const cors = require("cors");
 const router = require("./routes");
-const PORT = process.env.PORT || 7000;
+const PORT = process.env.PORT || 4000;
 
 app.use(cors());
 app.use(express.json({ limit: "50mb" }));
